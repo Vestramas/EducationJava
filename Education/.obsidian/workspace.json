@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "26c4db4d4954325a",
+        "id": "eb858a7ae5821821",
         "type": "tabs",
         "children": [
           {
-            "id": "e63b19b92da0aff1",
+            "id": "deb8bc52102a2640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/1. Оперативный учет/17. - Стеллажи и комплектующие (наборы и товары).md",
+                "file": "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/5. - TODO Конфигурация Java-based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. - Стеллажи и комплектующие (наборы и товары)"
+              "title": "5. - TODO Конфигурация Java-based"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5110321044922
+    "width": 349.5110321044922
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -165,44 +165,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "e63b19b92da0aff1",
+  "active": "deb8bc52102a2640",
   "lastOpenFiles": [
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/1. Оперативный учет/14. - Учет с приоритетом складов.md",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/1. Оперативный учет/5. - Себестоимость по FIFO,LIFO - ПАРТИЙНЫЙ учет.md",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/1. Оперативный учет/4. - Себестоимость по средней, немного про FIFO и LIFO.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/9. Пакеты и интерфейсы/9.1 -- Интерфейсы.md",
-    "1. Java Backend Developer/2. Spring Framework/2. Spring Web/7. Резюме по разделу.md",
-    "1. Java Backend Developer/2. Spring Framework/1. Spring Core/7. Резюме по разделу.md",
-    "1. Java Backend Developer/2. Spring Framework/1. Spring Core/1. Spring Core (IoC&DI).md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/1. - Основы потоков и Потоковые интерфейсы.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/0. - КАК РАБОТАЮТ НЕКОТОРЫЕ МЕТОДЫ.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/3. - Редукция, метод reduce().md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/2. - Принцип работы с потоком.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/5. - Сопоставление - map().md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/4. - Использование параллельных потоков.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/25. Потоковый API (Stream API)/1.1 -- Способы создания Stream.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/20. Пакет java.util Collection Framework/0. - ИЕРАРХИЯ коллекций.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/20. Пакет java.util Collection Framework/1. - КОЛЛЕКЦИИ (Наследники Collection)/1. - Интерфейсы/2. - Интерфейсы коллекций и Collection.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/20. Пакет java.util Collection Framework/1. - КОЛЛЕКЦИИ (Наследники Collection)/1. - Интерфейсы/1. - Обзор Collection Framework.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/18. Введение в String/6. - Модификация строк, изменение регистра, соединение строк.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/18. Введение в String/5. - Поиск в строках.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/18. Введение в String/3. - Извлечение символов.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/18. Введение в String/2. - Литералы, конкатенация, преобразование других типов в String.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/18. Введение в String/1. - Введение в String.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/17. Выражения switch, записи и прочие недавно  добавленные средства/6. - Запечатанные классы и запечатанные интерфейсы.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/17. Выражения switch, записи и прочие недавно  добавленные средства/5. - Сопоставление с образцом  в операции instanceof.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/17. Выражения switch, записи и прочие недавно  добавленные средства/4. - Записи Record.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/17. Выражения switch, записи и прочие недавно  добавленные средства/2. - Расширение switch, yeld, (стрелка).md",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318132809.png",
-    "Pasted image 20260318132737.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318132635.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318131830.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318130610.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318124929.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318122350.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318122249.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318121944.png",
-    "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images/Pasted image 20260318121926.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/4. - OAuth2.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/5. - TODO Конфигурация Java-based.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/3. - TODO Архитектура Авторизации.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/1. - Архитектура Spring Security.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/2. - TODO Архитектура Аутентификации.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Security - Введение.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.3 ПРАКТИКА - Полный Spring Security Авторизация и Аутентификация (различие версий).md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.2 Spring Security - Простое приложение, фильтры.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.1 Spring Security - Подключение зависимостей.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/1. Общая теория по безопасности/1. Аутентификация и авторизация/3.3 -- Сессия и Куки (Session and Cookie).md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/0.2 Spring Security - Cookies.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/0.1 Spring Security - Сесси.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/imagesSec",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/imagesSec/Pasted image 20260416122334.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/imagesSec/Pasted image 20260416113603.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/imagesSec/Pasted image 20260416113034.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/imagesSec/Pasted image 20260416112952.png",
+    "Pasted image 20260416112917.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/imagesSec/Pasted image 20260416112602.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/imagesSec/Pasted image 20260416111619.png",
+    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/28. Введение в сервлеты/Пакет jakarta.servlet/4. Фильтры/2. - Привязка фильтров к сервлетам(Filter Mapping).md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)/План.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Sec(теория)",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/TODO Практическое резюме/1. - TODO.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/2. Практика/2. - TODO Конфигурация KeyCloak и добавление к проекту.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/2. Практика/1.1 -- ИЗМЕНЕНИЕ СТРУКТУРЫ ПРОЕКТА.md",
+    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. - Полезные ССЫЛКИ по Java.md",
+    "1. Java Backend Developer/2. Spring Framework/Spring Введение.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/2. Практика/1. - Обычное приложение Spring MVC.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/2. Практика/0. - Введение в проект, настройка pom.xml и docker-compose.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/1. Теория/3. - Grant Type.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/1. Теория/2.2 -- (Configure) Realm Settings, Authentication, Identity providers, User federation.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/1. Теория/2. - Базовые понятия (режим запуска,Reaml,Clients,Scope,Realm Role).md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/1. Теория/2.1 -- Users, Groups, Sessions, Events,.md",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/2. Keycloak (Теория и практика)/МАТЕРИАЛЫ.md",
+    "Pasted image 20260402094617.png",
+    "Собесы/Images/Pasted image 20260402094915.png",
+    "Собесы/Images/Pasted image 20260402092936.png",
+    "Собесы/Проекты",
     "2. Разработчик 1С/1. Мои заметки по 1С.Предприятию/2. Прикладные заметки",
     "2. Разработчик 1С/1. Мои заметки по 1С.Предприятию/1. Архитектурные заметки",
     "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/Untitled/Untitled",
@@ -210,9 +213,6 @@
     "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/images",
     "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу",
     "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка",
-    "2. Разработчик 1С/4. Upgrade 1C Experience",
-    "2. Разработчик 1С/3. Профессиональная  разработка в 1С_Предприятии/Том1/Глава12. Бухгалтерский учет (БУ)/1. Базис БухУчета",
-    "2. Разработчик 1С/3. Профессиональная  разработка в 1С_Предприятии/Том1/Глава12. Бухгалтерский учет (БУ)",
     "Untitled.canvas"
   ]
 }
