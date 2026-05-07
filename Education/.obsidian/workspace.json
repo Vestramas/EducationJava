@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2cdf1bb85893771",
+        "id": "e33dfe6e3f7df0ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9bd6496d7af23e",
+            "id": "1c7385ca7a90751f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. - Конфигурация Java-based.md",
+                "file": "1. Java Backend Developer/2. Spring Framework/5. Spring Security/МАТЕРИАЛЫ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. - Конфигурация Java-based"
+              "title": "МАТЕРИАЛЫ"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5110321044922
+    "width": 588.504997253418
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Разработчик 1С/4. Upgrade 1C Experience/1. Специалист подготовка/1. Леонтьев подготовка к спецу/1. Оперативный учет/17. - Стеллажи и комплектующие (наборы и товары).md",
+                "file": "3.  TODO- TOP List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 17. - Стеллажи и комплектующие (наборы и товары)"
+              "title": "Backlinks for 3.  TODO- TOP List"
             }
           },
           {
@@ -165,54 +165,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea9bd6496d7af23e",
+  "active": "67d5951338681d46",
   "lastOpenFiles": [
-    "Untitled.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. - Конфигурация Java-based.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.3 ПРАКТИКА - Полный Spring Security Авторизация и Аутентификация (различие версий).md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.2 Spring Security - Простое приложение, фильтры.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.1 Spring Security - Подключение зависимостей.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty/TODO.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty/1. - Netty User Guide.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty/images/Pasted image 20260429193549.png",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/1. Буферы/9. - MappedByteBuffer.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/1. Буферы/2. - ByteBuffer.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/1. Java SE/II-часть книги/22. Пакет java.nio. New Input Output/1. - Введение и пакеты NIO.md",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty/0. - Обзор архитектуры Netty.md",
-    "Собесы/Проекты/2. Проект ТТС.md",
-    "Собесы/Проекты/1. Проект ППВС (налоговая).md",
-    "Собесы/Проекты/0.1 -- Мои процессы.md",
-    "Собесы/Проекты/0. Процессы.md",
-    "Untitled 1.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. - TODO Конфигурация SecurityFilterChain и подключение к приложению.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/2. OAuth Client/1. - OAuth 2.0 Client в Spring Security.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/1. - Архитектура AuthN и основные классы.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In/2. - Продвинутая конфигурация (Advanced Configuration).md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In/1. - Основная конфигурация (Core Configuration).md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In/0. - ОСНОВНЫЕ КЛАССЫ.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/0.1 -- TODO Провайдеры аутентификации и работа с данными пользователя.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/Images/Pasted image 20260507214824.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/Images/Pasted image 20260507213858.png",
+    "Pasted image 20260507211209.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/0. - Компоненты Аутентификации.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. - Архитектура Spring Security.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/999. - TODO Общие темы (работа с контекстом, Jackson).md",
+    "TO BE CyberSecurity.md",
+    "1. ЗАМЕТКИ.md",
+    "Conspects.md",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/TODO ОБЩИЙ ВИД Spring Security.md",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/TODO.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Spring Security - Введение.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/0. - ФИЛОСОФИЯ SpringSecurity.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/4. OAuth Authorization Server/1. - Вводная.md",
-    "3.  TODO- TOP List.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/3. OAuth Resource Server/3. - Bearer-Token.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. - Конфигурация Java-based.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/TODO Практическое резюме/1. - TODO.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. Авторизация/3. - Компоненты Авторизации.md",
+    "Untitled.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/0. TODO Практическое руководство/1. Аутентификация",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2.1 -- Form, Basic и Digest аутентификация.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2.2.1 --- Механизмы хранения паролей.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2.2 -- Хранение паролей (Кодировщики паролей).md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2. - Аутентификация по Логину и Паролю.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. Авторизация/РЕЗЮМЕ и основные классы.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/2. Практика/1. In memory auth/2. - In memory Auth (сессия и куки).md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.1 Spring Security - Подключение зависимостей.md",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260502154030.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503133155.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503133123.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503133005.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503132909.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503132716.png",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503132544.png",
+    "1. Java Backend Developer/2. Spring Framework/6. Spring REST/1. TODO Практическое руководство",
+    "1. Java Backend Developer/2. Spring Framework/images",
+    "1. Java Backend Developer/4. Технологии Backend/11. Менеджеры Проектов/1. Maven",
+    "1. Java Backend Developer/4. Технологии Backend/11. Менеджеры Проектов",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/2. Практика/2. Basic Auth",
+    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/2. Практика/1. In memory auth",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/4. OAuth Authorization Server",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/3. OAuth Resource Server/2. - JWT.md",
-    "ШАБЛОНЫ КОНСПЕКТОВ/Шаблон сокращения конспекта по разработке.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260429131152.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/3. OAuth Resource Server/1. - OAuth 2.0 Resource Server в Spring Security.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260429124912.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260429124822.png",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/3. OAuth Resource Server",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/2. OAuth Client",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty/images/Pasted image 20260421184519.png",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty/images/Pasted image 20260421183037.png",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty/images",
-    "1. Java Backend Developer/1. Java17 (G.Shildt)/2. Библиотеки и Фреймворки/1. Netty",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260421145221.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260421141937.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260421141915.png",
-    "Pasted image 20260421140604.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In/Untitled",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In",
-    "ШАБЛОНЫ КОНСПЕКТОВ",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/0. TODO Практическое руководство",
     "Untitled.canvas"
   ]
 }
