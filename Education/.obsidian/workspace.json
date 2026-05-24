@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e33dfe6e3f7df0ce",
+        "id": "2850f4e73293fce8",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7385ca7a90751f",
+            "id": "f220599a1d44cc71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java Backend Developer/2. Spring Framework/5. Spring Security/МАТЕРИАЛЫ.md",
+                "file": "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/1. TODO Spring Data JDBC/999. - Chapters TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "МАТЕРИАЛЫ"
+              "title": "999. - Chapters TODO"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 588.504997253418
+    "width": 652.504997253418
   },
   "right": {
     "id": "5001031dc38adbfc",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.  TODO- TOP List.md",
+                "file": "1. ЗАМЕТКИ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.  TODO- TOP List"
+              "title": "Backlinks for 1. ЗАМЕТКИ"
             }
           },
           {
@@ -165,54 +165,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "67d5951338681d46",
+  "active": "f220599a1d44cc71",
   "lastOpenFiles": [
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. - TODO Конфигурация SecurityFilterChain и подключение к приложению.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/2. OAuth Client/1. - OAuth 2.0 Client в Spring Security.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/1. - Архитектура AuthN и основные классы.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In/2. - Продвинутая конфигурация (Advanced Configuration).md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In/1. - Основная конфигурация (Core Configuration).md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/1. OAuth Login In/0. - ОСНОВНЫЕ КЛАССЫ.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/0.1 -- TODO Провайдеры аутентификации и работа с данными пользователя.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/0. - Введение в ORM со Spring.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/1. - Основные концепции всего Spring Data.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/2. - Пользовательские реализации репозиториев.md",
+    "ШАБЛОНЫ КОНСПЕКТОВ/Шаблон для сокращенного объяснения документации.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment/1. Data Access/1.1 -- Использование классов, для работы с БД и Обработка ошибок.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment/1. Data Access/1. - Классы для доступа к БД через JDBC и Структура пакетов.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/Практические резюме/1.1 Практическое резюме - Конфигурация Java + JDBC API (JdbcTemlate).md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment/1. Data Access/3. - Типичные проблемы с обработкой параметров и значений.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment/1. Data Access/1.2 -- Пакетный операции JDBC (Batch Opertations).md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/7. - Блокировки и Аудит.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/4. - Хранимые процедуры.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/6. - Векторный поиск.md",
+    "1. Java Backend Developer/3. Hibernate/4. Hibernate - Отношение 1 к М.md",
+    "1. Java Backend Developer/3. Hibernate/8. Ленивая (lazy) и НЕ ленивая (eager) загрузка.md",
+    "1. Java Backend Developer/3. Hibernate/7. Hibernate - Отношение М ко М.md",
+    "1. Java Backend Developer/3. Hibernate/6. Hibernate - Отношение 1 к 1.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/7. PostgreSQL - Связи между таблицами.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/4. - Транзакционность в Spring Data JPA (Transactionality).md",
+    "Untitled.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/1. TODO Spring Data JDBC/999. - Chapters TODO.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/6. - Query by Example (QBE).md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/5. - Спецификация (Specification API).md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/2. - Конфигурация и Сохранение сущностей.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/3. - JPA Query Methods (Методы запросов JPA).md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/1. - JPA - фабрики менеджеров (Spring Framework Data Access).md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA/0. - ГЛОСАРИЙ JPA.md",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/2. Hibernate",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/Images/Pasted image 20260520155021.png",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/Images/Pasted image 20260520155006.png",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/Images/Pasted image 20260520141605.png",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment/3. ORM Data Access",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment/2. TransactionManagment",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment/1. Data Access",
+    "Собесы/Images/Pasted image 20250126132001.png",
+    "1. Java Backend Developer/4. Технологии Backend/7. TODO Сеть и безопасность/images/Pasted image 20260518112258.png",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0, Commons",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/0. ORM/1. Spring Data JPA",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/0. Spring Frameword - Data Access и TransactionManagment",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data/1. TODO Spring Data JDBC",
+    "1. Java Backend Developer/2. Spring Framework/3. Spring Data/1. Теория/1. Spring Data",
+    "Собесы/Images/Pasted image 20260515132358.png",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/Images/Pasted image 20260507214824.png",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/Images/Pasted image 20260507213858.png",
     "Pasted image 20260507211209.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/0. - Компоненты Аутентификации.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. - Архитектура Spring Security.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/999. - TODO Общие темы (работа с контекстом, Jackson).md",
-    "TO BE CyberSecurity.md",
-    "1. ЗАМЕТКИ.md",
-    "Conspects.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/TODO ОБЩИЙ ВИД Spring Security.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/TODO.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. - Конфигурация Java-based.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/TODO Практическое резюме/1. - TODO.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. Авторизация/3. - Компоненты Авторизации.md",
-    "Untitled.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/0. TODO Практическое руководство/1. Аутентификация",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2.1 -- Form, Basic и Digest аутентификация.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2.2.1 --- Механизмы хранения паролей.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2.2 -- Хранение паролей (Кодировщики паролей).md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/1. Аутентификация/2. - Аутентификация по Логину и Паролю.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/2. Авторизация/РЕЗЮМЕ и основные классы.md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/2. Практика/1. In memory auth/2. - In memory Auth (сессия и куки).md",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1.1 Spring Security - Подключение зависимостей.md",
     "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260502154030.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503133155.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503133123.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503133005.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503132909.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503132716.png",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/imagesSec/Pasted image 20260503132544.png",
-    "1. Java Backend Developer/2. Spring Framework/6. Spring REST/1. TODO Практическое руководство",
-    "1. Java Backend Developer/2. Spring Framework/images",
-    "1. Java Backend Developer/4. Технологии Backend/11. Менеджеры Проектов/1. Maven",
-    "1. Java Backend Developer/4. Технологии Backend/11. Менеджеры Проектов",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/2. Практика/2. Basic Auth",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/2. Практика/1. In memory auth",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/4. OAuth Authorization Server",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/3. OAuth Resource Server",
-    "1. Java Backend Developer/2. Spring Framework/5. Spring Security/1. Теория/3. OAuth2/2. OAuth Client",
     "Untitled.canvas"
   ]
 }
