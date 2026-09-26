@@ -1,8 +1,10 @@
-1. Попросить объяснить абстрации в Netty и назначение классов
-Channel - Абстракция для сетевого канала
-ChannelInboundHandlerAdapter - обработчик событий в канале Channel (база - ChannelInboundHandler). Предоставляет методы-обработчики
+1. Записать, что означает:
+```java
+ChannelFuture future = bootstrap.bind().sync();  
+log.info("Server started");  
+future.channel().closeFuture().sync();
+```
+в классе запуска ServerBootstrap
 
+2. Методы fireChannel... как и для чего используются (fireChannelRead - передает сообщение следующему обработчику в метод channelRead0)
 
-EventLoop - цикл обработки событий
-EventLoopGroup - (тот же ExecutorService для Netty, он и наследуется от Executor). В нем находится пулл EventLoop
-Буферы - буферы для накапливания данных из сетки. Удобнее чем буферы в NIO, так как не нужно делать flip() для перевертывания буфера на четнеие/запись
